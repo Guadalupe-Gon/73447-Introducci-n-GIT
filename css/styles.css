@@ -1,0 +1,12 @@
+body {
+    background-color: #121212;
+    color: white;
+    font-family: "Roboto", sans-serif;
+}
+
+code {
+    color: rgb(191, 52, 80);
+    padding: .5rem 1rem;
+    border-radius: .25rem;
+    background-color: #222;
+}
