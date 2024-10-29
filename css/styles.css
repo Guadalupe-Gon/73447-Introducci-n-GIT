@@ -10,3 +10,8 @@ code {
     border-radius: .25rem;
     background-color: #222;
 }
+
+a {
+    color: beige;
+    text-decoration: none;
+}
